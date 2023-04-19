@@ -1,7 +1,7 @@
 # Covid-19_India
 Covid-19 Time Series Analysis of Case and Vaccination Information
 Overview:
-This dataset provides the latest Covid-19 India state-wise data as of 14 Jan 2023, and can be used to analyze the impact of Covid-19 in India. It is ideal for conducting exploratory data analysis.
+This dataset provides the latest Covid-19 India state-wise data as of 19 April 2023, and can be used to analyze the impact of Covid-19 in India. It is ideal for conducting exploratory data analysis.
 
 Features:
 The dataset includes the following features:
